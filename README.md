@@ -1,7 +1,7 @@
 
 <div align="center">
   <div>
-    <h1 align="center">Free OCR</h1>
+    <h1 align="center">FREE OCR</h1>
   </div>
 	<p>A Python package to perform OCR for free.</p>
 
