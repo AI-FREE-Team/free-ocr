@@ -14,7 +14,7 @@
 ## Installation
 
 ```bash
-pip install free-ocr
+pip install free_ocr
 ```
 
 ---
