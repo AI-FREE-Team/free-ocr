@@ -1,9 +1,9 @@
 
 <div align="center">
   <div>
-    <h1 align="center">Free OCR</h1>
+    <h1 align="center">free-ocr</h1>
   </div>
-	<p>A Python library to perform OCR for free with Llama 3.2 Vision.</p>
+	<p>A Python library to perform llama-OCR for free with Llama.</p>
 
 <a href="https://pypi.org/project/free-ocr/"><img src="https://img.shields.io/pypi/v/free-ocr" alt="Current version"></a>
 
