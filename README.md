@@ -5,7 +5,7 @@
   </div>
 	<p>A Python package to perform OCR for free.</p>
 
-<a href="https://pypi.org/project/free-ocr/"><img src="https://img.shields.io/pypi/v/free-ocr" alt="Current version"></a> <a href="https://pypi.org/project/free-ocr/", target="_blank">[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]</a>
+<a href="https://pypi.org/project/free-ocr/"><img src="https://img.shields.io/pypi/v/free-ocr" alt="Current version"></a> <a href="https://pypi.org/project/free-ocr/" target="_blank">![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)</a>
 
 </div>
 
