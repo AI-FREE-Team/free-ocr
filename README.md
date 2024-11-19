@@ -33,7 +33,7 @@ print(markdown)
 
 ---
 
-## Original Resource
+## Original Resources
 
 This package is based on the free Llama 3.2 endpoint from [Together AI](https://dub.sh/together-ai), which parses images and returns Markdown content.
 
@@ -41,8 +41,3 @@ This package is based on the free Llama 3.2 endpoint from [Together AI](https://
 
  - llama-OCR Official Repo: [github.com/Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)
 
----
-
-## Credit
-
-This project is based on the original [llama-ocr](https://github.com/Nutlope/llama-ocr).
